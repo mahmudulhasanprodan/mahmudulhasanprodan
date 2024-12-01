@@ -4,7 +4,7 @@
 
 I am a passionate Front-End Developer with expertise in creating dynamic, user-friendly websites and applications. Skilled in HTML, CSS, JavaScript, and modern frameworks. My goal is to build visually appealing and highly functional web interfaces that meet both user needs and business objectives.
 
-Skills: HTML | CSS | JAVASCRIPT | TAILWINDCSS | REACT-JS | PHOTOSHOP | ILLUSTRATOR | EXCEL
+Skills: HTML/CSS/JAVASCRIPT/TAILWINDCSS/REACT-JS/PHOTOSHOP/ILLUSTRATOR/EXCEL
 
 - 🔭 I’m currently working on this page. 
 - 👯 I’m looking to collaborate on Github 
